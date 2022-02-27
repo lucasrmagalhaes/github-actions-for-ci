@@ -1,3 +1,1 @@
-# Tic Tac Toe Game
-
-Learn GitHub Actions through a fun little game.
+**GitHub Actions:** Continuous Integration
